@@ -4,4 +4,4 @@ If this were a fangame for any other franchise, [I](https://github.com/IoIxD) wo
 
 With all of that said, I am willing to invite people that I know personally into the private repo if they would like to do cool things with it and/or port it to other platforms. If you are in this category of people, you know where to contact me.
 
-*(Also, somebody on the team recalls hearing a very relevant story of a small indie horror game being taken and infected with a (successful) virus by somebody whom the creator thought was a friend, but citation is needed for this.)*
+*(Also, somebody on the team recalls hearing a very relevant story of a small indie horror game being taken and infected with a (successful) virus by somebody whom the creator thought was a friend, and it became more known then the game itself. Citation is needed for this.)*
